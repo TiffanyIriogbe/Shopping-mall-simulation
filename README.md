@@ -1,0 +1,4 @@
+**Shopping Mall Simulation Terminal App**
+This project is a terminal-based application simulating a shopping mall experience, designed to enhance inventory and transaction management. Customers can browse items, add them to their cart, and check out, generating a detailed receipt at the end of their shopping session. Shop owners have access to inventory management features, allowing them to view remaining stock levels and keep track of available products in the supermarket.
+
+The app was developed using **Python**, highlighting skills in object-oriented programming, file handling, and console-based user interface design. It leverages Python's versatility to create an intuitive experience for both customers and shop owners while ensuring efficient inventory tracking. Future enhancements may include adding a database backend for persistent data storage or expanding functionality with features like dynamic pricing and sales reporting.
